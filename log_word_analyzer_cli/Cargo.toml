@@ -1,0 +1,9 @@
+[package]
+name = "log_word_analyzer_cli"
+version = "0.1.0"
+edition = "2024"
+description = "CLI tool for log word frequency analysis"
+authors = ["sasan zare"]
+license = "MIT"
+
+[dependencies]

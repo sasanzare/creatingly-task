@@ -1,0 +1,9 @@
+Error: Disk full
+Warning: Memory low
+error: disk error
+error: network down
+Error: Disk full
+System: CPU overload
+Network: connection timeout
+Error: Disk full
+Warning: Memory critical
